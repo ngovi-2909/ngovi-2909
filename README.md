@@ -1,5 +1,5 @@
 # Ngô Tường Vi
-## 🇻🇳 I'm Vi from Vietnam, I like to code and learn new technique for create a website  
+## :🇻🇳:, I'm Vi from Vietnam, I like to code and learn new technique for create a website  
 <!--
 **ngovi-2909/ngovi-2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
