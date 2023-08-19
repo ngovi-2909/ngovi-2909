@@ -3,7 +3,7 @@
 ### 🍿 Currently, I'm studying in Tôn Đức Thắng University and I'm in my fourth year. I also in a freelancer team named K-Kloud-Tarus which is still a young team now. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngovi-2909&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngovi-2909&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **ngovi-2909/ngovi-2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
