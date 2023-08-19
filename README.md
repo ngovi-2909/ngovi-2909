@@ -2,7 +2,7 @@
 ### 🧑‍💻 I'm Vi from Vietnam, I like coding and learning new languages and frameworks like SpringBoot, Django,...  
 ### 🍿 Currently, I'm studying in Tôn Đức Thắng University and I'm in my fourth year. I also in a freelancer team named K-Kloud-Tarus which is still a young team now. 
 
-## My github stats
+## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngovi-2909&show_icons=true&theme=gruvbox)
 
 ## Most used languages 
