@@ -1,5 +1,5 @@
 # Ngô Tường Vi
-### 🧑‍💻 I'm Vi from Vietnam, I like coding and learning new things. I have been working with frameworks like SpringBoot, Django, Laravel 
+### 🧑‍💻 My name is Vi and I come from Vietnam, I am a back-end developer and have been working with frameworks like SpringBoot, Django, Laravel.
 ### 🍿 Currently, I am a final-year student in Ton Duc Thang university, also in a freelance team named K-Kloud-Tarus which is a young team now. 
 
 ## Github stats
